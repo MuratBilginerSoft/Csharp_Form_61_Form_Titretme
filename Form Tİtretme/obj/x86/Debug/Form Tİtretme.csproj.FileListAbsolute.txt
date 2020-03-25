@@ -1,0 +1,23 @@
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Form1.resources
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Properties.Resources.resources
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.csproj.GenerateResource.Cache
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\bin\Debug\Form Tİtretme.exe
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\bin\Debug\Form Tİtretme.pdb
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.exe
+C:\Users\NCFKR1\Desktop\ \3 C#\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.pdb
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.exe
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.pdb
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\bin\Debug\Form Tİtretme.exe
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\bin\Debug\Form Tİtretme.pdb
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.csprojResolveAssemblyReference.cache
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Form1.resources
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Properties.Resources.resources
+C:\Users\Ncfkr\Desktop\8 Kodbank C# Görsel Programlama 8 Form Titretme\Form Tİtretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.csproj.GenerateResource.Cache
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.exe
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.pdb
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\bin\Debug\Form Tİtretme.exe
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\bin\Debug\Form Tİtretme.pdb
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.csprojResolveAssemblyReference.cache
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Form1.resources
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form_Tİtretme.Properties.Resources.resources
+F:\04 - Yazılım\04 - Form Projeleri\25 Form Titretme\Form Tİtretme\obj\x86\Debug\Form Tİtretme.csproj.GenerateResource.Cache
